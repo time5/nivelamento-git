@@ -2,13 +2,9 @@ class Pessoa {
 
 public andar() {
  // monte de codigo foda aqui
- return temMuitoFolego;
+ return !temMuitoFolego;
 }
 
-
-public andar() {
-  return true;
-}
 
 public correr() {
 
